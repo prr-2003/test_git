@@ -1,5 +1,6 @@
-# test_git
+# test_git——my
 just test for my teamwork
+
 
 ## github设置
 
@@ -23,7 +24,7 @@ git config --global user.email "YOUR_EMAIL"
 
 ```bash
 git init
-git remote add origin https://github.com/BUAAZhangHaonan/AI2025-MLLM.git
+git remote add origin https://github.com/prr-2003/test_git.git
 ```
 
 #### 如果本地仓库已经git初始化，删除已有.git文件夹，重新初始化，关联仓库
@@ -32,7 +33,7 @@ git remote add origin https://github.com/BUAAZhangHaonan/AI2025-MLLM.git
 cd workspace
 rm -rf ./AI2025-MLLM/.git
 cd ..
-git remote add origin https://github.com/BUAAZhangHaonan/AI2025-MLLM.git
+git remote add origin https://github.com/prr-2003/test_git.git
 ```
 
 #### 新建git分支
